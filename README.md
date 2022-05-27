@@ -1,4 +1,4 @@
-#Compifan
+# Compifan
 
 A compiler created for a programming language made by myself. This was part of a Six Semester proyect. 
 The language has lexic, sintactics and semantic rules, too it traduces my language to arduino. Cause the language was maded to control a fan connected to an arduino by serial port.
@@ -12,7 +12,7 @@ Languages rules:
 6. The comments can go anywhere.
 7. Only exists integeres datatypes.
 
-##Program body
+## Program body
 
 !!Im_a_comment
 int pin1=10;  
