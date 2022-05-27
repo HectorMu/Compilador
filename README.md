@@ -1,7 +1,7 @@
 # Compifan
 
 A compiler created for a programming language made by myself. This was part of a Six Semester proyect. 
-The language has lexic, sintactics and semantic rules, too it traduces my language to arduino. Cause the language was maded to control a fan connected to an arduino by serial port.
+The language has lexic, sintactic and semantic rules, too it traduces my language to arduino. Cause the language was maded to control a fan connected to an arduino by serial port.
 
 Languages rules:
 1. All the vars are declared out of the initial method called "Proceso".
